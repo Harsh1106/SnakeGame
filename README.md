@@ -28,4 +28,4 @@ A classic Snake Game implemented in Java using Swing for graphical user interfac
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/SnakeGame.git
+   git clone https://github.com/Harsh1106/SnakeGame
